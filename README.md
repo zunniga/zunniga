@@ -27,20 +27,3 @@
 
 </samp>
 
-<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"><samp>Tecnologías</samp></h3>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="1000">
-
-#### 🎨 Frontend & UI/UX  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,figma,ai,ps" />
-</div>
-
-#### 🛠️ Herramientas  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=github,postman,dbeaver,vscode,git" />
-</div>
-
-#### 🗃️ Bases de Datos  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</div>
