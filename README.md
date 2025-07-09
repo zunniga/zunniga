@@ -21,7 +21,9 @@
 
 - 👨‍💻 Todos mis proyectos están en [mi GitHub](https://github.com/zunniga).  
 
-- 💬 Pregúntame sobre **Tailwind, TypeScript o diseño de interfaces**.  
+- 💬 Pregúntame sobre **Tailwind, TypeScript o diseño de interfaces**.
+
+- 📫 Contáctame: +51 994946573
 
 - 📫 Contáctame: **maycolmedina366@gmail.com**  
 
