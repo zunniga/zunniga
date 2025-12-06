@@ -25,7 +25,9 @@
 
 - 📫 Contáctame: +51 994946573
 
-- 📫 Contáctame: **maycolmedina366@gmail.com**  
+- 📫 Contáctame: **maycolmedina366@gmail.com**
+  
+- 💼 Mi portafolio https://jhosymedina.netlify.app/
 
 </samp>
 
